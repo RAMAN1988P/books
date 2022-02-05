@@ -7,7 +7,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Books {
+
 	private void m2() {
+	}
+	private void m1() {
 		// TODO Auto-generated method stub
 
 	}
@@ -18,6 +21,8 @@ public class Books {
 		driver.get("https://www.google.com/");
 		driver.findElement(By.name("q")).sendKeys("rrb chennai"+Keys.ENTER);
 		driver.findElement(By.name("srp")).click();
+		
+		
 		
 	}
 }
