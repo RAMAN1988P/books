@@ -7,6 +7,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Books {
+
+	private void m2() {
+	}
 	private void m1() {
 		// TODO Auto-generated method stub
 
