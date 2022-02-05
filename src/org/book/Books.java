@@ -7,6 +7,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Books {
+	private void m2() {
+		// TODO Auto-generated method stub
+
+	}
 
 	public static void main(String[] args) {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\User\\eclipse-workspace\\Books\\Driver\\chromedriver.exe");
